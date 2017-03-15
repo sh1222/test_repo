@@ -1,6 +1,6 @@
 #include <stdio.>
 
-int maint(void)
+int main(void)
 {
 	printf("but i cant... \n");
 	printf("Hello world!!!!\n");
